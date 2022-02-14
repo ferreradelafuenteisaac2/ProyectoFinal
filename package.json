@@ -2,7 +2,7 @@
   "name": "proyecto-transporte-v2",
   "version": "0.0.0",
   "engines": {
-    "node": "14.17.6"
+    "node": "14.18.0"
   },
   "scripts": {
     "ng": "ng",
